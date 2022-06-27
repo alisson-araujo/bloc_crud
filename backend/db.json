@@ -1,9 +1,1 @@
-{
-    "contacts": [
-        {
-            "id": "545451454",
-            "name": "Robert",
-            "email": "robert@gmail.com"
-        }
-    ]
-}
+{"contacts":[{"id":"f37d0a80-f61f-11ec-a801-1d028d0b0bbd","name":"myname1112444","email":"myname@email.com"},{"id":"be04ba50-f620-11ec-a801-1d028d0b0bbd","name":"aarfghj555","email":"asdasda@email.ckkk"},{"id":"d0fb04d0-f624-11ec-a801-1d028d0b0bbd","name":"alguem","email":"alguem@email.com.br"},{"id":"14b30660-f656-11ec-a801-1d028d0b0bbd","name":"top","email":"top@email.com"}]}
